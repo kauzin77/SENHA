@@ -136,12 +136,12 @@ label {
 }
 
 .media {
-    background-color: #fffb00;
+    background-color: blue;
     width: 50%;
 }
 
 .forte {
-    background-color: #09ff00;
+    background-color: green;
     width: 100%;
 }
 
